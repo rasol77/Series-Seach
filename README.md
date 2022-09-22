@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 ### 
 Es un ejercicio hecho en react para buscar películas en esta API (https://www.episodate.com/api/).
-Lo malo que no he conseguido que funcione la paginación.
+Lo malo que no he conseguido que funcione la paginación. 🫠
 
 
 
